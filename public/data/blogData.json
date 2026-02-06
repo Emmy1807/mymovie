@@ -1,0 +1,46 @@
+[
+    {
+        "_id": 1,
+        "thumbnail": "/4D5DCinema-1.webp",
+        "category": "",
+        "title": "5D Theatre",
+        "author": {
+            "name": "",
+            "image": ""
+        },
+        "date": ""
+    },
+    {
+        "_id": 2,
+        "thumbnail": "/p5dy6dkctc221.webp",
+        "category": "",
+        "title": "Disney",
+        "author": {
+            "name": "",
+            "image": ""
+        },
+        "date": ""
+    },
+    {
+        "_id": 3,
+        "thumbnail": "/riv.jpg",
+        "category": "",
+        "title": "Theatre cater",
+        "author": {
+            "name": "",
+            "image": ""
+        },
+        "date": ""
+    },
+    {
+        "_id": 4,
+        "thumbnail": "/5D.jpg",
+        "category": "",
+        "title": "Cinema",
+        "author": {
+            "name": "",
+            "image": ""
+        },
+        "date": ""
+    }
+]
